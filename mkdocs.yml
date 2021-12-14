@@ -1,0 +1,22 @@
+site_name: Chatisマニュアル
+use_directory_urls: false
+nav:
+- チャット:
+    - スマホ: 'sp_chat.md'
+    - PCブラウザ: 'pc_chat.md'
+- グループ:
+    - スマホ: 'sp_group.md'
+    - PCブラウザ: 'pc_group.md'
+- プロフィール変更:
+    - スマホ: 'sp_pro.md'
+    - PCブラウザ: 'pc_pro.md'
+- 管理画面: 'admin.md'
+- 安否確認: 'anpi.md'
+- WEB給与連携: 'salary.md'
+- PHR連携: 'phr.md'
+theme:
+ name: material
+ language: 'ja'
+extra:
+ search:
+ language: 'ja'
