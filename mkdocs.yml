@@ -10,10 +10,11 @@ nav:
 - プロフィール変更:
     - スマホ: 'sp_pro.md'
     - PCブラウザ: 'pc_pro.md'
-- 管理画面: 'admin.md'
 - 安否確認: 'anpi.md'
 - WEB給与連携: 'salary.md'
 - PHR連携: 'phr.md'
+- その他:
+    - プッシュ通知が届かない: 'push.md'
 theme:
  name: material
  language: 'ja'
