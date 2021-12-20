@@ -13,6 +13,7 @@ nav:
 - 安否確認: 'anpi.md'
 - WEB給与連携: 'salary.md'
 - PHR連携: 'phr.md'
+- 管理者・権限: 'admin.md'
 - その他:
     - プッシュ通知が届かない: 'push.md'
 theme:
