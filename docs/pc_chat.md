@@ -192,7 +192,7 @@
 ![Screenshot](img/通知ONOFF.jpg)
 
 通知OFFにされたコンタクト・グループには、通知OFFアイコンが表示されます。  
-![Screenshot](img/通知ONOFF1.jpg)
+![Screenshot](img/通知ONOFF2.jpg)
 
 ## ピン留めON/OFF
 コンタクト・グループ一覧で上位に表示されるようにピン留めON/OFFを変更できます。  
