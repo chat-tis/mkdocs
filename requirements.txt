@@ -1,0 +1,6 @@
+mkdocs == 1.1.2
+# 以下，必要に応じてライブラリを記載
+mkdocs-material
+fontawesome-markdown
+markdown-include
+pymdown-extensions

@@ -1,0 +1,10 @@
+# スタートアップガイド
+![Screenshot](img/startup1.jpg)  
+![Screenshot](img/startup2.jpg)  
+![Screenshot](img/startup3.jpg)  
+![Screenshot](img/startup4.jpg)  
+![Screenshot](img/startup5.jpg)  
+![Screenshot](img/startup6.jpg)  
+![Screenshot](img/startup7.jpg)  
+![Screenshot](img/startup8.jpg)  
+![Screenshot](img/startup9.jpg)  
