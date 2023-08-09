@@ -1,65 +1,66 @@
 site_name: Chatisマニュアル
 use_directory_urls: false
 nav:
-    - スタートアップ:
-        - iOS: "ios_startup.md"
-        - Android: "android_startup.md"
-    - 画面説明:
-        - スマホ: "sp_view.md"
-        - PCブラウザ: "pc_view.md"
-    - メッセージ入力:
-        - スマホ: "sp_chat.md"
-        - PCブラウザ: "pc_chat.md"
-    - メッセージ予約:
-        - スマホ: "sp_reserve.md"
-        - PCブラウザ: "pc_reserve.md"
-    - メニュー:
-        - スマホ: "sp_menu.md"
-        - PCブラウザ: "pc_menu.md"
-    - グループ作成:
-        - スマホ: "sp_group.md"
-        - PCブラウザ: "pc_group.md"
-    - アンケート:
-        - スマホ: "sp_questionnaire.md"
-        - PCブラウザ: "pc_questionnaire.md"
-    - プロフィール変更:
-        - スマホ: "sp_pro.md"
-        - PCブラウザ: "pc_pro.md"
-    - ユーザー作成/削除: "user.md"
-    - お知らせ: "notice.md"
-    - 安否確認: "anpi.md"
-    - WEB給与連携: "salary.md"
-    - 健診結果(PHR)連携: "phr.md"
-    - 日報: "nipo.md"
-    - アカウント認証: "sms.md"
-    - 管理者・権限: "admin.md"
-    - よくある質問: "index.md"
-    - その他:
-        - カメラ・写真のアクセス許可: "sp_permission.md"
-        - プッシュ通知が届かない: "push.md"
-        - パスワード初期化: "password.md"
-        - QRコード初期化: "ioscode.md"
-        - 対応スマホOS: "os.md"
-        - インストール: "install.md"
-        - アップデート: "update.md"
-        - SMS機能が無い場合: "nosms.md"
-        - SMSが届かない場合: "whysms.md"
-        - 部会グループ管理: "bukai.md"
+  - スタートアップ:
+      - iOS: "ios_startup.md"
+      - Android: "android_startup.md"
+  - 画面説明:
+      - スマホ: "sp_view.md"
+      - PCブラウザ: "pc_view.md"
+  - メッセージ入力:
+      - スマホ: "sp_chat.md"
+      - PCブラウザ: "pc_chat.md"
+  - メッセージ予約:
+      - スマホ: "sp_reserve.md"
+      - PCブラウザ: "pc_reserve.md"
+  - メニュー:
+      - スマホ: "sp_menu.md"
+      - PCブラウザ: "pc_menu.md"
+  - グループ作成:
+      - スマホ: "sp_group.md"
+      - PCブラウザ: "pc_group.md"
+  - アンケート:
+      - スマホ: "sp_questionnaire.md"
+      - PCブラウザ: "pc_questionnaire.md"
+  - プロフィール変更:
+      - スマホ: "sp_pro.md"
+      - PCブラウザ: "pc_pro.md"
+  - ユーザー作成/削除: "user.md"
+  - お知らせ: "notice.md"
+  - 安否確認: "anpi.md"
+  - WEB給与連携: "salary.md"
+  - 健診結果(PHR)連携: "phr.md"
+  - 日報: "nipo.md"
+  - アカウント認証: "sms.md"
+  - 管理者・権限: "admin.md"
+  - よくある質問: "index.md"
+  - 導入施設: "introduction.md"
+  - その他:
+      - カメラ・写真のアクセス許可: "sp_permission.md"
+      - プッシュ通知が届かない: "push.md"
+      - パスワード初期化: "password.md"
+      - QRコード初期化: "ioscode.md"
+      - 対応スマホOS: "os.md"
+      - インストール: "install.md"
+      - アップデート: "update.md"
+      - SMS機能が無い場合: "nosms.md"
+      - SMSが届かない場合: "whysms.md"
+      - 部会グループ管理: "bukai.md"
 theme:
-    name: material
-    language: "ja"
-    feature:
-        tabs: true
-    
+  name: material
+  language: "ja"
+  feature:
+    tabs: true
+
 extra:
-    search:
-        language: "ja"
+  search:
+    language: "ja"
 plugins:
-    - search
-    - git-revision-date-localized
+  - search
+  - git-revision-date-localized
 markdown_extensions:
-    - admonition
-    - fontawesome_markdown
+  - admonition
+#    - fontawesome_markdown
 
 extra_css:
-    - "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css"
+  - "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css"
